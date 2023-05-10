@@ -1,0 +1,21 @@
+
+label{
+
+    .Input{
+        background-color: transparent;
+        width:min(100%,30rem);
+    
+        color: #fff;
+        font-family: 'Times New Roman', serif;
+        font-size: 1.2rem;
+        &::placeholder{
+            color: #fff;
+        }
+       border: 0;
+       outline: none;
+       border-bottom: 2px white solid;
+       padding-bottom: 0.5rem;
+    }
+
+}
+

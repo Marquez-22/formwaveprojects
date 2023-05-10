@@ -1,0 +1,29 @@
+.FormularioInput {
+    .formulario {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+
+    .titulo {
+        margin: 0;
+        color: white;
+        text-align: center;
+    }
+
+    .registrar {
+        font-family: 'Times New Roman', serif;
+        font-size: 1rem;
+        color: white;
+
+    }
+
+    .registrar a {
+        text-decoration: none;
+        color: lightblue;
+
+    }
+
+
+
+}
